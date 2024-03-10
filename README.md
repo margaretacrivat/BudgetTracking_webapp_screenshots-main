@@ -1,1 +1,1 @@
-Aplicatie pentru management proiecte. 
+Webapp for personal budget and project budget management.
