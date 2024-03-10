@@ -1,0 +1,1 @@
+Aplicatie pentru management proiecte. 
